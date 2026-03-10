@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @internetmaks
+- 👋 Hi, I’m Maks
 - 👀 I’m interested in Cognitive Science
-- 🌱 I’m currently learning Python and it's ML libraries
+- 🤖 I’m currently learning Python and it's ML libraries
+- 🌱 I’m doing my Master's degree in Data Analysis and Processing
 - 📫 How to reach me: makskuchta@icloud.com
 
 
